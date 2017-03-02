@@ -16,6 +16,7 @@ import retrofit2.Response;
 
 /**
  * Created by cristian on 13-12-2016.
+
  */
 
 public class LocationByAddress extends AsyncTask<String, Void, String[]>
@@ -76,3 +77,8 @@ public class LocationByAddress extends AsyncTask<String, Void, String[]>
         }
     }
 
+
+/**
+ * Created by cristian on 13-12-2016.
+
+ */
